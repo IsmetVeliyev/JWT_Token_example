@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xSsPyCYK8H6GkV0cYsLFfQ7T4T8AbzFn1iLfcwKx15k=",
+  "Source": "JWT_Token_example",
+  "BasePath": "_content/JWT_Token_example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
